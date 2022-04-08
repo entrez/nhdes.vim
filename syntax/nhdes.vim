@@ -80,20 +80,20 @@ hi def link nhDesChar		 String
 hi def link nhDesCoord		 Number
 hi def link nhDesRegion		 Number
 
-highlight   nhDesMapCharDoor	 ctermbg=black ctermfg=brown	 guibg=black guifg=brown
-highlight   nhDesMapCharFloor	 ctermbg=black ctermfg=grey	 guibg=black guifg=grey
-highlight   nhDesMapCharCorridor ctermbg=black ctermfg=grey	 guibg=black guifg=grey
-highlight   nhDesMapCharWall	 ctermbg=black ctermfg=grey	 guibg=black guifg=grey
-highlight   nhDesMapCharWater	 ctermbg=black ctermfg=darkblue	 guibg=black guifg=darkblue
-highlight   nhDesMapCharThrone	 ctermbg=black ctermfg=yellow	 guibg=black guifg=yellow
-highlight   nhDesMapCharAir	 ctermbg=black ctermfg=lightblue guibg=black guifg=lightblue
-highlight   nhDesMapCharCloud	 ctermbg=black ctermfg=grey	 guibg=black guifg=grey
-highlight   nhDesMapCharLava	 ctermbg=black ctermfg=red	 guibg=black guifg=red
-highlight   nhDesMapCharSink	 ctermbg=black ctermfg=grey	 guibg=black guifg=grey
-highlight   nhDesMapCharIce	 ctermbg=black ctermfg=lightblue guibg=black guifg=lightblue
-highlight   nhDesMapCharTree	 ctermbg=black ctermfg=green	 guibg=black guifg=green
-highlight   nhDesMapCharIronbars ctermbg=black ctermfg=cyan	 guibg=black guifg=cyan
-highlight   nhDesMapCharLinenum	 ctermbg=black ctermfg=darkgrey	 guibg=black guifg=darkgrey
-highlight   nhDesMapCharError	 ctermbg=black   ctermfg=yellow    guibg=red   guifg=yellow
+highlight   nhDesMapCharDoor	 ctermbg=235 ctermfg=brown	 guibg=black guifg=brown
+highlight   nhDesMapCharFloor	 ctermbg=235 ctermfg=grey	 guibg=black guifg=grey
+highlight   nhDesMapCharCorridor ctermbg=235 ctermfg=grey	 guibg=black guifg=grey
+highlight   nhDesMapCharWall	 ctermbg=235 ctermfg=grey	 guibg=black guifg=grey
+highlight   nhDesMapCharWater	 ctermbg=235 ctermfg=darkblue	 guibg=black guifg=darkblue
+highlight   nhDesMapCharThrone	 ctermbg=235 ctermfg=yellow	 guibg=black guifg=yellow
+highlight   nhDesMapCharAir	 ctermbg=235 ctermfg=lightblue guibg=black guifg=lightblue
+highlight   nhDesMapCharCloud	 ctermbg=235 ctermfg=grey	 guibg=black guifg=grey
+highlight   nhDesMapCharLava	 ctermbg=235 ctermfg=red	 guibg=black guifg=red
+highlight   nhDesMapCharSink	 ctermbg=235 ctermfg=grey	 guibg=black guifg=grey
+highlight   nhDesMapCharIce	 ctermbg=235 ctermfg=lightblue guibg=black guifg=lightblue
+highlight   nhDesMapCharTree	 ctermbg=235 ctermfg=green	 guibg=black guifg=green
+highlight   nhDesMapCharIronbars ctermbg=235 ctermfg=cyan	 guibg=black guifg=cyan
+highlight   nhDesMapCharLinenum	 ctermbg=235 ctermfg=darkgrey	 guibg=black guifg=darkgrey
+highlight   nhDesMapCharError	 ctermbg=235   ctermfg=yellow    guibg=red   guifg=yellow
 
 let b:current_syntax = "nhdes"
